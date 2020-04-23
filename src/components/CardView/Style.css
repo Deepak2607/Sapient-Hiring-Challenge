@@ -1,0 +1,27 @@
+
+.heading{ 
+    color: lightseagreen;
+}
+.para{
+     font-size: 18px
+}
+.span{
+    margin-left: 25px;
+    margin-right: 10px;
+    color: lightseagreen;
+    font-weight:bold
+}
+.link{
+    color: lightseagreen;
+}
+.link:hover{
+    text-decoration: underline
+}
+.row-wise{
+    display: flex;
+    flex-direction: row;
+}
+
+.text{  
+    font-family: 'Source Sans Pro', sans-serif;
+    }
